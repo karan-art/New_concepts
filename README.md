@@ -37,5 +37,9 @@ Time Series Concepts:
 - Simple Moving Average
 - Weight Moving Average
 - Exponential Smoothing Method
+9. Methods used for Forecasting
+- Holt-Winter Method
+- SARIMAX Method
+- ARIMA Method
 
 
