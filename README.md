@@ -1,4 +1,4 @@
-# New_concepts (Maths and Time series)
+# New_concepts (Statistics and Time series)
 Here what new things i learned , i start updating 
 
 New Libraries
