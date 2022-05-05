@@ -52,10 +52,12 @@ Time Series Concepts:
  -Naive Method
  -Seasonal Naive Method
  -Drift Method
+ 
 8. Smoothing Method
 - Simple Moving Average
 - Weight Moving Average
 - Exponential Smoothing Method
+
 9. Methods used for Forecasting
 - Holt-Winter Method
 - SARIMAX Method
