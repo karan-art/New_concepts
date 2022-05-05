@@ -5,15 +5,34 @@ New Libraries
 - statsmodel
 - scipy.stats
 
+Some Basic Concepts:
+1. Types of variable
+2. Gauissian Distribution
+3. Central Tendency
+4. Types of Sampling
+5. Types of Series
+6. Hypothesis testing
+- Null and Alternate Hypothesis
+- Type 1 & 2 Error
+- Level of signifnance and Confidence Level
+- P-Value
+8. Outlier Detection Techinque
+- Box and Whisker plot
+- Z-score
+9. Central Limit Theorm
+10. Confusion Matrix ( Accuracy, Precision,Recall,F1-Score)
+11. Loss Function (MAE,MSE,RMSE,MAPE)
+12. Bayes Theorm
+13. AUC and ROC curve (Area under Curve and Recevier Operator Characteristics)
 
-5 Types of Distribution:
+14 Types of Distribution:
 1. Z-Score
 2. T- Distribution
 3. F-Distribution
 4. Chi-Square Distribution
 5. ANOVA Distribution
 
-Probability Distribution
+15.Probability Distribution
 1. Bernoulli Distribution
 2. Bionomial Distribution
 3. Geometeric Distribution
